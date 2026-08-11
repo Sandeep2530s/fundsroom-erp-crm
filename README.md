@@ -417,9 +417,7 @@ Both commands should complete without TypeScript or Vite build errors.
 **Sandeep D**  
 B.E. — Computer Science & Engineering (IoT, Cyber Security & Blockchain)  
 Dayananda Sagar Academy of Technology and Management, Bangalore  
-Expected Graduation: 2027
 
-- Email: sandeepsandal44@gmail.com
 - GitHub: https://github.com/Sandeep2530s
 - LinkedIn: https://linkedin.com/in/sandeep-d-653aa4339
 
