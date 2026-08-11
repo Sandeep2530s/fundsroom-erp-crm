@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Build output
+dist/
+
+# Local backups
+backend_backup/
+frontend_backup/
+
+# Logs
+*.log
+npm-debug.log*
