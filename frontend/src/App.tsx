@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from "react";
 import "./App.css";
-const API_URL = "https://" + "fundsroom-backend-d65y.onrender.com" + "/api";
+const API_URL = "https://" + "fundsroom-backend-v2.onrender.com" + "/api";
 
 type DashboardData = {
   totalCustomers: number;
